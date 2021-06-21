@@ -1,0 +1,2 @@
+# HollowPurple
+HollowPurple Resource Pack
