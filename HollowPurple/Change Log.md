@@ -11,8 +11,9 @@
 ### **Bug Fixes:**
 ## v1.2
 ### **Added:**
+- Menu GUI
 - Main Menu Background.
-**Bug Fixes:**
+### **Bug Fixes:**
 
 ## v1.1
 ### **Added:**
