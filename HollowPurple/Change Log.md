@@ -2,9 +2,9 @@
 
 ## V1.4 (Current)
 **Added:**
-- Fixed Creative GUI
-- Fixed minor Texture Failures.
+- Creative GUI
 **Bug Fixes:**
+- Fixed Minor Texture Failures.
 ## v1.3
 **Added:**
 - Added Custom Diamond Sword
