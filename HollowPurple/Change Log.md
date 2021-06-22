@@ -12,6 +12,7 @@
 - Added Villager GUI
 - Added Dispenser GUI
 - Added Loom GUI
+- Added Cartography Table GUI
 ### **Bug Fixes:**
 - Fixed Netherite Texture bug.
 
