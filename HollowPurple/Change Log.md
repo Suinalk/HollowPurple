@@ -23,5 +23,4 @@
 ## V.0
 ### **Added:**
 - Project start
-- **Bug Fixes:**
 ### **Bug Fixes:**
