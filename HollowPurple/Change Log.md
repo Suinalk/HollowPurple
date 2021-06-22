@@ -4,6 +4,10 @@
 - Remodeled Diamond Sword
 - Fixed Netherite Texture bug.
 - Added Villager GUI
+- Added Horse GUI
+- Added Hopper GUI
+- Added Enchantment Table
+- Added Shulker Box
 ### **Bug Fixes:**
 
 ## V1.5 (Current)
