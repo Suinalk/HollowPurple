@@ -13,6 +13,8 @@
 - Added Dispenser GUI
 - Added Loom GUI
 - Added Cartography Table GUI
+- Added Brewing Stand GUI
+- Added Beacon GUI
 ### **Bug Fixes:**
 - Fixed Netherite Texture bug.
 
