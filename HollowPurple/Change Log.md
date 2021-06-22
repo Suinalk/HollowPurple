@@ -1,9 +1,9 @@
 # Change Log
 
 ## V1.4 (Current)
-**Added:**
+### **Added:**
 - Creative GUI
-**Bug Fixes:**
+### **Bug Fixes:**
 - Fixed Minor Texture Failures.
 ## v1.3
 **Added:**
