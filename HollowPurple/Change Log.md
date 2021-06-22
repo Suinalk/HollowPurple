@@ -1,5 +1,5 @@
 # Change Log
-## V1.69 (Not Out Yet)
+## V1.69 (Current)
 ### **Features:**
 - Remodeled Diamond Sword
 - Added Villager GUI
@@ -18,7 +18,7 @@
 ### **Bug Fixes:**
 - Fixed Netherite Texture bug.
 
-## V1.5 (Current)
+## V1.5
 ### **Added:**
 - Added Netherite Sword Textures.
 - Added Anvil GUI
