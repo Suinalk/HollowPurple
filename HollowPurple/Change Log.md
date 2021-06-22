@@ -1,5 +1,5 @@
 # Change Log
-## V1.5 (Not Out Yet)
+## V1.6 (Not Out Yet)
 ### **Features:**
 - Remodeled Diamond Sword
 - Fixed Netherite Texture bug.
