@@ -1,4 +1,11 @@
 # Change Log
+## V1.5 (Not Out Yet)
+### **Features:**
+- Remodeled Diamond Sword
+- Fixed Netherite Texture bug.
+- Added Villager GUI
+### **Bug Fixes:**
+
 ## V1.5 (Current)
 ### **Added:**
 - Added Netherite Sword Textures.
@@ -8,31 +15,31 @@
 
  
 ## V1.4
-### **Added:**
+### **Features:**
 - Creative GUI
 ### **Bug Fixes:**
 - Fixed Minor Texture Failures.
 
 ## v1.3
-### **Added:**
+### **Features:**
 - Added Custom Diamond Sword
 ### **Bug Fixes:**
 
 ## v1.2
-### **Added:**
+### **Features:**
 - Menu GUI
 - Main Menu Background.
 ### **Bug Fixes:**
 
 
 ## v1.1
-### **Added:**
+### **Features:**
 - Inventory GUI
 - Furnace GUI
 - Smoker GUI
 ### **Bug Fixes:**
 
 ## V.0
-### **Added:**
+### **Features:**
 - Project start
 ### **Bug Fixes:**
