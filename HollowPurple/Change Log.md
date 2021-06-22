@@ -1,14 +1,19 @@
 # Change Log
-## V1.6 (Not Out Yet)
+## V1.69 (Not Out Yet)
 ### **Features:**
 - Remodeled Diamond Sword
-- Fixed Netherite Texture bug.
 - Added Villager GUI
 - Added Horse GUI
 - Added Hopper GUI
-- Added Enchantment Table
-- Added Shulker Box
+- Added Enchantment Table GUI
+- Added Shulker Box GUI
+- Added Stonecutter GUI
+- Added Grindstone GUI
+- Added Villager GUI
+- Added Dispenser GUI
+- Added Loom GUI
 ### **Bug Fixes:**
+- Fixed Netherite Texture bug.
 
 ## V1.5 (Current)
 ### **Added:**
