@@ -6,16 +6,22 @@
 - Fixed minor Texture Failures.
 **Bug Fixes:**
 ## v1.3
+**Added:**
 - Added Custom Diamond Sword
-
+**Bug Fixes:**
 ## v1.2
 **Added:**
-- Added Main Menu Background.
+- Main Menu Background.
 **Bug Fixes:**
 
 ## v1.1
-- Added Core Features
+**Added:**
+- Inventory GUI
+- Furnace GUI
+- Smoker GUI
+**Bug Fixes:**
 ## V.0
 **Added:**
 - Project start
 - **Bug Fixes:**
+**Bug Fixes:**
