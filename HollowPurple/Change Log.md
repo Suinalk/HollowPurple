@@ -1,4 +1,4 @@
-# Change Logs
+# Change Log
 
 ## V1.4 (Current)
 **Added:**
